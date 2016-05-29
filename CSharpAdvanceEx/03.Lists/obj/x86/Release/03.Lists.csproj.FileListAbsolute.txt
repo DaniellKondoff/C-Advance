@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\03.Lists\bin\Release\03.Lists.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\03.Lists\bin\Release\03.Lists.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\03.Lists\obj\x86\Release\03.Lists.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\03.Lists\obj\x86\Release\03.Lists.pdb

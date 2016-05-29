@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\02.TwoArrays\bin\Release\02.TwoArrays.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\02.TwoArrays\bin\Release\02.TwoArrays.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\02.TwoArrays\obj\x86\Release\02.TwoArrays.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\02.TwoArrays\obj\x86\Release\02.TwoArrays.pdb

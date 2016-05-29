@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\01.Array\bin\Release\01.Array.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\01.Array\bin\Release\01.Array.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\01.Array\obj\x86\Release\01.Array.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\CSharpAdvanceEx\01.Array\obj\x86\Release\01.Array.pdb
